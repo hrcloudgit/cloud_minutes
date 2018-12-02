@@ -3,6 +3,8 @@ Meeting Minutes
 
 We just started capturing Meeting Minutes at the end of 2018, so bear with us.
 
+December 2018 - AWS re:Invent Conference
+
 ## Potential future Meetup topics:
 
 * Azure Powershell 
