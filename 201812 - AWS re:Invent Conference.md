@@ -1,7 +1,7 @@
 AWS re:Invent Conference
 ========================
 
-###Introductions
+### Introductions
   * T
   * Dave ??? (not a member)
   * Dave Stein
@@ -12,4 +12,5 @@ AWS re:Invent Conference
   * David Perkins (not a member)
 
 - AWS re:Invent
+  
   https://aws.amazon.com/new/reinvent
