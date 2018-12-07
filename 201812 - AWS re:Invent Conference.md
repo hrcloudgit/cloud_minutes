@@ -16,3 +16,6 @@ AWS re:Invent Conference
 ### AWS re:Invent
   
   https://aws.amazon.com/new/reinvent
+
+
+[T to add his notes from re:Invent here]
