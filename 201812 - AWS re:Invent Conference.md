@@ -2,7 +2,7 @@ AWS re:Invent Conference
 ========================
 
 ### Introductions
-  * T
+  * Tihomir "T" Hristov
   * Dave ??? (not a member)
   * Dave Stein
   * Brandon Hunter
@@ -10,6 +10,8 @@ AWS re:Invent Conference
   * Mike Powell (not a member)
   * Terry Stillwell
   * David Perkins (not a member)
+  * George Grundy
+  * Anthony Brown
 
 ### AWS re:Invent
   
