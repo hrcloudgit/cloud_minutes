@@ -3,7 +3,7 @@ AWS re:Invent Conference
 
 ### Introductions
   * Tihomir "T" Hristov
-  * Dave ??? (not a member)
+  * Dave Evans (not a member)
   * Dave Stein
   * Brandon Hunter
   * Seth McFarland
