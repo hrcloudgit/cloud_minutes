@@ -2,6 +2,7 @@ AWS re:Invent Conference
 ========================
 
 ### Introductions
+  * Steve Correia
   * Tihomir "T" Hristov
   * Dave Evans (not a member)
   * Dave Stein
